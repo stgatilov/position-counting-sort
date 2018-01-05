@@ -1,0 +1,10 @@
+Number of elements = 16
+    41.5 ns : PCSort_Main:any                            (209354752)
+    37.7 ns : PCSort_Optimized:any                       (209354752)
+    42.0 ns : PCSort_Trans:any                           (209354752)
+    31.5 ns : PCSort_Main:distinct                       (-1354780672)
+    22.9 ns : PCSort_WideOuter:distinct                  (-1354780672)
+    43.4 ns : PCSort_WideOuter_U16:distinct              (-1354780672)
+    51.0 ns : SortingNetwork_16                          (208502784)
+   143.1 ns : InsertionSort                              (208502784)
+   146.9 ns : StdSort                                    (208502784)

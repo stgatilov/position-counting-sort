@@ -1,0 +1,22 @@
+Number of elements = 16
+    47.7 ns : PCSort_Main:any                            (209354752)
+    45.3 ns : PCSort_Optimized:any                       (209354752)
+    50.1 ns : PCSort_Trans:any                           (209354752)
+    37.7 ns : PCSort_Main:distinct                       (-1354780672)
+    31.5 ns : PCSort_WideOuter:distinct                  (-1354780672)
+    50.5 ns : PCSort_WideOuter_U16:distinct              (-1354780672)
+   177.4 ns : InsertionSort                              (208502784)
+Number of elements = 32
+   136.4 ns : PCSort_Main:any                            (104787968)
+   119.2 ns : PCSort_Optimized:any                       (104787968)
+   124.0 ns : PCSort_Trans:any                           (104787968)
+   107.8 ns : PCSort_Main:distinct                       (876470272)
+    91.6 ns : PCSort_WideOuter:distinct                  (876470272)
+   415.8 ns : InsertionSort                              (104386560)
+Number of elements = 64
+   486.4 ns : PCSort_Main:any                            (52441088)
+   394.8 ns : PCSort_Optimized:any                       (52441088)
+   381.5 ns : PCSort_Trans:any                           (52441088)
+   333.8 ns : PCSort_Main:distinct                       (195477504)
+   316.6 ns : PCSort_WideOuter:distinct                  (195477504)
+  1138.7 ns : InsertionSort                              (52215808)

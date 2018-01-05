@@ -1,0 +1,8 @@
+Number of elements = 128
+  1865.4 ns : PCSort_Main:any                            (26226688)
+  1476.3 ns : PCSort_Optimized:any                       (26226688)
+  1514.4 ns : PCSort_Trans:any                           (26226688)
+  1159.7 ns : PCSort_Main:distinct                       (-1569832960)
+  1071.9 ns : PCSort_WideOuter:distinct                  (-1569832960)
+  2796.2 ns : InsertionSort                              (26152960)
+  2906.8 ns : StdSort                                    (26152960)

@@ -1,0 +1,9 @@
+Number of elements = 32
+   119.4 ns : PCSort_Main:any                            (104505344)
+   127.3 ns : PCSort_Optimized:any                       (104505344)
+   103.9 ns : PCSort_Trans:any                           (104505344)
+    86.2 ns : PCSort_Main:distinct                       (1266135040)
+    78.4 ns : PCSort_WideOuter:distinct                  (1266135040)
+   100.8 ns : SortingNetwork_32                          (104902656)
+   347.4 ns : InsertionSort                              (104902656)
+   496.1 ns : StdSort                                    (104902656)
